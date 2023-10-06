@@ -349,6 +349,24 @@ h6 {
   }
 }
 
+.download-cv {
+  margin-top: 15px;
+}
+
+.download-cv button {
+  font-family: "Poppins", sans-serif;
+  background: #0563bb;
+  border: 0;
+  padding: 10px 20px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.download-cv button:hover {
+  background: #0678e3;
+}
+
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
